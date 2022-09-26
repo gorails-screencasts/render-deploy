@@ -1,12 +1,10 @@
 databases:
   - name: postgres
-    plan: free
     ipAllowList: []
 
 services:
   - type: web
     name: rails
-    plan: free
     env: ruby
     buildCommand: "./bin/render-build.sh"
     startCommand: bundle exec rails s
