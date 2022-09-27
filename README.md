@@ -1,5 +1,7 @@
 # README
 
+[Information about workers and preload_app! in puma](https://github.com/puma/puma#clustered-mode)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
