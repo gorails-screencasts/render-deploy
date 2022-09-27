@@ -2,7 +2,7 @@
 
 [Information about workers and preload_app! in puma](https://github.com/puma/puma#clustered-mode)
 
-[Example Render Build Script](https://github.com/puma/puma#clustered-mode)
+[Example Render Build Script](https://render.com/docs/deploy-rails#create-a-build-script)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
